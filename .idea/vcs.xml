@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/OOP_Assn3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOP_Assn4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OOP_Assn5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bulls_and_cows" vcs="Git" />
   </component>
 </project>
