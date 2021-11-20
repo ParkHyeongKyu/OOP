@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/drum">
+        <file>drum/0_4.wav</file>
+        <file>drum/0_5.wav</file>
+        <file>drum/1_4.wav</file>
+        <file>drum/1_5.wav</file>
+        <file>drum/2_4.wav</file>
+        <file>drum/2_5.wav</file>
+        <file>drum/3_4.wav</file>
+        <file>drum/3_5.wav</file>
+        <file>drum/4_4.wav</file>
+        <file>drum/5_4.wav</file>
+        <file>drum/6_4.wav</file>
+        <file>drum/7_4.wav</file>
+        <file>drum/8_4.wav</file>
+        <file>drum/9_4.wav</file>
+        <file>drum/10_4.wav</file>
+        <file>drum/11_4.wav</file>
+    </qresource>
+</RCC>

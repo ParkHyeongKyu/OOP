@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/grec">
+        <file>grec.PNG</file>
+    </qresource>
+</RCC>

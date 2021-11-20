@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "QMake",
+      "command": "qmake",
+      "args": [],
+      "options": {
+        "cwd": "."
+      },
+      "group": "build"
+    },
+    {
+      "type": "shell",
+      "label": "Makefile",
+      "command": "make",
+      "args": [
+        "-j8"
+      ],
+      "options": {
+        "cwd": "."
+      },
+      "dependsOn": [
+        "QMake"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+  ]
+}

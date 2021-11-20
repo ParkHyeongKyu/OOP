@@ -1,0 +1,14 @@
+CREATE ..\..\build\as4\libas4.a
+ADDMOD ..\..\build\objects\note.o
+ADDMOD ..\..\build\objects\pitch.o
+ADDMOD ..\..\build\objects\seq.o
+ADDMOD ..\..\build\objects\time.o
+ADDMOD ..\..\build\objects\song.o
+ADDMOD ..\..\build\objects\play.o
+ADDMOD ..\..\build\objects\seqio.o
+ADDMOD ..\..\build\objects\songio.o
+ADDMOD ..\..\build\objects\require.o
+ADDMOD ..\..\build\objects\qrc_drum.o
+ADDMOD ..\..\build\objects\qrc_melody.o
+ADDMOD ..\..\build\objects\moc_play.o
+SAVE
